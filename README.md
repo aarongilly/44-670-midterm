@@ -30,7 +30,7 @@ For additional information regarding the data used, see the Data section at the 
 
 ## Data
 
-The data for this project are sourced from a [UC Irving repository](https://archive.ics.uci.edu/dataset/73/mushroom). It is comprised of one boolean target feature (`poisonous`) and 22 features which may be used by the classifier to make its predictions. 
+The data for this project are sourced from a [UC Irvine repository](https://archive.ics.uci.edu/dataset/73/mushroom). It is comprised of one boolean target feature (`poisonous`) and 22 features which may be used by the classifier to make its predictions. 
 
 | Variable Name            | Role    | Type        | Description                                                                                         | Units | Missing Values |
 | ------------------------ | ------- | ----------- | --------------------------------------------------------------------------------------------------- | ----- | -------------- |
