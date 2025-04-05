@@ -146,3 +146,10 @@
     --    edible: 4208 (51.8%)
     -- poisonous: 3916 (48.2%)
     --     total: 8124 instances
+
+
+
+- Train R2 Score: 0.32
+- Test R2 Score: 0.36
+- Test Mean Squared Error: 924.73
+- Test Mean Absolute Error: 21.35
